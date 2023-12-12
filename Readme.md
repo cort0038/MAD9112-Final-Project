@@ -1,6 +1,6 @@
-#Luis_Cortorreal_FinalProject
+# Luis_Cortorreal_FinalProject
 
-#Step 1 - getDaysUntilChristmas
+# Step 1 - getDaysUntilChristmas
 
 code = ```function getDaysUntilChristmas() {
   const today = new Date().getDate()
@@ -9,13 +9,13 @@ code = ```function getDaysUntilChristmas() {
 }
 console.log(getDaysUntilChristmas())```
 
-#Step 2 - Android Screenshot
+# Step 2 - Android Screenshot
 Couldn't find the app in my computer
 
-#Step 3 - iOS Screenshot
+# Step 3 - iOS Screenshot
 ![iOS Screeshot](./Screenshot%202023-12-12%20at%2011.46.28.png)
 
-#Step 4 - Parallels Screenshot
+# Step 4 - Parallels Screenshot
 ![Parallels Screeshot](./Screenshot%202023-12-12%20at%2011.48.15.png)
 
 
