@@ -1,4 +1,4 @@
-##Luis_Cortorreal_FinalProject
+#Luis_Cortorreal_FinalProject
 
 #Step 1 - getDaysUntilChristmas
 
@@ -13,9 +13,9 @@ console.log(getDaysUntilChristmas())```
 Couldn't find the app in my computer
 
 #Step 3 - iOS Screenshot
-image = ![iOS Screeshot][]
+![iOS Screeshot][https://drive.google.com/file/d/1szalGMrBCRkqUjheG7CrFsYoVdn2oxPu/view?usp=sharing]
 
 #Step 4 - Parallels Screenshot
-
+![Parallels Screeshot][https://drive.google.com/file/d/1t2uBT0JYzx0Q1Udd-P792Uv9LWPSwpWe/view?usp=sharing]
 
 
