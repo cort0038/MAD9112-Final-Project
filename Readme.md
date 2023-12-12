@@ -13,9 +13,9 @@ console.log(getDaysUntilChristmas())```
 Couldn't find the app in my computer
 
 #Step 3 - iOS Screenshot
-![iOS Screeshot][https://drive.google.com/file/d/1szalGMrBCRkqUjheG7CrFsYoVdn2oxPu/view?usp=sharing]
+![iOS Screeshot](./Screenshot%202023-12-12%20at%2011.46.28.png)
 
 #Step 4 - Parallels Screenshot
-![Parallels Screeshot][https://drive.google.com/file/d/1t2uBT0JYzx0Q1Udd-P792Uv9LWPSwpWe/view?usp=sharing]
+![Parallels Screeshot](./Screenshot%202023-12-12%20at%2011.48.15.png)
 
 
