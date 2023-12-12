@@ -8,7 +8,7 @@ MAD9112 - Mobile Development <br>
   const christmasDay = 25
   return christmasDay - today
 }
-console.log(`We are ${getDaysUntilChristmas()} days away from Christmas`)`
+console.log(getDaysUntilChristmas())`
 
 ##Step 2 - Android Screenshot<br>
 Couldn't find the app in my computer<br>
