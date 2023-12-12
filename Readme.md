@@ -3,11 +3,11 @@ MAD9112 - Mobile Development <br>
 
 ##Step 1 - getDaysUntilChristmas<br>
 
-`function getDaysUntilChristmas() {
-  const today = new Date().getDate()
-  const christmasDay = 25
-  return christmasDay - today
-}
+`function getDaysUntilChristmas() { <br>
+  const today = new Date().getDate() <br>
+  const christmasDay = 25 <br>
+  return christmasDay - today <br>
+} <br>
 console.log(`We are ${getDaysUntilChristmas()} days away from Christmas`)`<br>
 
 ##Step 2 - Android Screenshot<br>
