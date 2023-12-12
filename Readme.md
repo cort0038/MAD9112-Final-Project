@@ -1,23 +1,21 @@
-###Luis_Cortorreal_FinalProject<br>
-MAD9112 - Mobile Development <br>
+##Luis_Cortorreal_FinalProject
 
-##Step 1 - getDaysUntilChristmas<br>
+#Step 1 - getDaysUntilChristmas
 
-`function getDaysUntilChristmas() {
+code = ```function getDaysUntilChristmas() {
   const today = new Date().getDate()
   const christmasDay = 25
   return christmasDay - today
 }
-console.log(getDaysUntilChristmas())`
+console.log(getDaysUntilChristmas())```
 
-##Step 2 - Android Screenshot<br>
-Couldn't find the app in my computer<br>
+#Step 2 - Android Screenshot
+Couldn't find the app in my computer
 
-##Step 3 - iOS Screenshot<br>
-<img src="./Screenshot 2023-12-12 at 11.46.28.png">
+#Step 3 - iOS Screenshot
+image = ![iOS Screeshot][]
 
-##Step 4 - Parallels Screenshot<br>
-<img src="./Screenshot 2023-12-12 at 11.48.15.png">
+#Step 4 - Parallels Screenshot
 
 
 
